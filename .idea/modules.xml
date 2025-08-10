@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/behavioural-design-pattern/behavioural-design-pattern.iml" filepath="$PROJECT_DIR$/behavioural-design-pattern/behavioural-design-pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/creational-design-pattern/creational-design-pattern.iml" filepath="$PROJECT_DIR$/creational-design-pattern/creational-design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/multithreading-concurrency/multithreading-concurrency.iml" filepath="$PROJECT_DIR$/multithreading-concurrency/multithreading-concurrency.iml" />
       <module fileurl="file://$PROJECT_DIR$/structural-design-patterns/structural-design-patterns.iml" filepath="$PROJECT_DIR$/structural-design-patterns/structural-design-patterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/take-you-forward-lld.iml" filepath="$PROJECT_DIR$/.idea/take-you-forward-lld.iml" />
     </modules>
