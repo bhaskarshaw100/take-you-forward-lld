@@ -1,4 +1,4 @@
-package pen.strategy;
+package Pen.strategy;
 
 public interface WriteStrategy {
     void write();

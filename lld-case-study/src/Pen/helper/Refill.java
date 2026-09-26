@@ -1,4 +1,4 @@
-package pen.helper;
+package Pen.helper;
 
 public class Refill {
     private Ink ink;

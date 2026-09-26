@@ -1,6 +1,6 @@
-package pen.pens;
+package Pen.pens;
 
-import pen.helper.Refill;
+import Pen.helper.Refill;
 
 public class SketchPen extends Pen {
     private Refill refill;

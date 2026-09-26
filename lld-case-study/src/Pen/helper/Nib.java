@@ -1,4 +1,4 @@
-package pen.helper;
+package Pen.helper;
 
 public class Nib {
     private double dimansion;
