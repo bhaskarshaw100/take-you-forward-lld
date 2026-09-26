@@ -1,7 +1,7 @@
-package pens;
+package pen.pens;
 
-import helper.Ink;
-import helper.Nib;
+import pen.helper.Ink;
+import pen.helper.Nib;
 
 public class FountainPen extends Pen{
 

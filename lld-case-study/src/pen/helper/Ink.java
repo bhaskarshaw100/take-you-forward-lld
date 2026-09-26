@@ -1,4 +1,4 @@
-package helper;
+package pen.helper;
 
 public class Ink {
     private Colour colour;

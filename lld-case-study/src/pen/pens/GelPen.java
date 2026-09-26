@@ -1,11 +1,11 @@
-package pens;
+package pen.pens;
 
-import helper.Refill;
+import pen.helper.Refill;
 
-public class SketchPen extends Pen {
+public class GelPen extends Pen {
     private Refill refill;
 
-    public SketchPen(Refill refill) {
+    public GelPen(Refill refill) {
         this.refill = refill;
     }
 

@@ -1,7 +1,7 @@
-package pens;
+package pen.pens;
 
-import helper.PenCap;
-import strategy.WriteStrategy;
+import pen.helper.PenCap;
+import pen.strategy.WriteStrategy;
 
 public abstract class Pen {
     private WriteStrategy writeStrategy;
